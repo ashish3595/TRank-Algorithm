@@ -1,0 +1,22 @@
+drop table if exists htag1;
+create table htag1 (sno int(6) primary key auto_increment, tweet_id bigint(8) unsigned not null, user_id bigint(8) unsigned not null, scr_name varchar(100), rt_count int(6), fav_count int(6), foll_count int(5), frnd_count int(5), created_at datetime, foll_inf double(7, 4), ret_inf double(7, 4), fav_inf double(7, 4));
+
+
+
+drop table if exists htag2;
+create table htag2 (sno int(6) primary key auto_increment, tweet_id bigint(8) unsigned not null, user_id bigint(8) unsigned not null, scr_name varchar(100), rt_count int(6), fav_count int(6), foll_count int(5), frnd_count int(5), created_at datetime, foll_inf double(7, 4), ret_inf double(7, 4), fav_inf double(7, 4));
+
+
+drop table if exists htag4;
+create table htag4 (sno int(6) primary key auto_increment, tweet_id bigint(8) unsigned not null, user_id bigint(8) unsigned not null, scr_name varchar(100), rt_count int(6), fav_count int(6), foll_count int(5), frnd_count int(5), created_at datetime, foll_inf double(7, 4), ret_inf double(7, 4), fav_inf double(7, 4));
+
+
+drop table if exists htag5;
+create table htag5 (sno int(6) primary key auto_increment, tweet_id bigint(8) unsigned not null, user_id bigint(8) unsigned not null, scr_name varchar(100), rt_count int(6), fav_count int(6), foll_count int(5), frnd_count int(5), created_at datetime, foll_inf double(7, 4), ret_inf double(7, 4), fav_inf double(7, 4));
+
+
+drop table if exists htag6;
+create table htag6 (sno int(6) primary key auto_increment, tweet_id bigint(8) unsigned not null, user_id bigint(8) unsigned not null, scr_name varchar(100), rt_count int(6), fav_count int(6), foll_count int(5), frnd_count int(5), created_at datetime, foll_inf double(7, 4), ret_inf double(7, 4), fav_inf double(7, 4));
+
+
+delete from htag1 where ret_inf is null;

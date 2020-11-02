@@ -1,0 +1,17 @@
+ashish@ashish-ubuntu:~/Projects/WTA$ python2 final_calc.py
+Highly Influential Users are: 
+lukos86
+Influential Users are: 
+AppleReviewsPL
+Potential Influential Users are: 
+applefactsit
+applenamax
+BjoernBrodersen
+DACollingwood
+mzi2008
+RichardCoward
+rockbottom_pc
+ThinPrint
+tutorial_app
+YoChr1s
+

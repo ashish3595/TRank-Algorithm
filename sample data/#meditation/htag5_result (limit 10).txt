@@ -1,0 +1,28 @@
+ashish@ashish-ubuntu:~/Projects/WTA$ python2 final_calc.py
+Highly Influential Users are: 
+julianventer
+Influential Users are: 
+AndrewLeeYoga
+CWMbeauty
+Patriczia
+RTIEM
+TLCollaborator
+Potential Influential Users are: 
+2_Meditate
+anil_pandey12
+ChrystinaZavrin
+docandyogi
+dominicbeeton
+HealingArtAnna
+Intusiasma
+JataSaraswati
+KMC_Glasgow
+meditation_hq
+MestreGualberto
+mmaytherapy
+SOS_Southeast
+VintageBee_
+yanciparkinson8
+yogaposesdaily
+zen4minds
+

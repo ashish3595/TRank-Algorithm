@@ -1,0 +1,20 @@
+ashish@ashish-ubuntu:~/Projects/WTA$ python2 final_calc.py 
+Highly Influential Users are: 
+meneghettiloic
+toddashi
+Influential Users are: 
+Monserrat_AS
+PrequelTrilogy
+Since_RBD
+SMG_Russia
+SpiderMonkey30s
+Potential Influential Users are: 
+cstephens2
+Evolucion_Geek
+GeekCultureCo
+Inquis_ector
+KNUTBERGEL
+SarahMDugan
+TheRealN97
+youngchristina_
+

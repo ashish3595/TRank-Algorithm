@@ -1,0 +1,1294 @@
+ashish@ashish-ubuntu:~/Projects/WTA$ python2 inf_calc.py
+Successful
+((2716759292L,), (2334049172L,), (3053937728L,), (2692564433L,), (2842290039L,), (39631076L,), (2888091491L,), (3782745735L,), (4061671217L,), (3047007809L,), (97477204L,), (15572034L,), (14172339L,), (15581091L,), (2756671896L,), (883027206L,), (3717462674L,), (18380180L,), (68780036L,), (71757725L,), (92792029L,), (15518507L,), (2858516220L,), (3365935067L,), (2718744254L,), (3206904443L,), (3270221106L,), (2979756681L,), (1160749784L,), (3432715629L,), (524625978L,), (374822164L,), (1002437648L,), (356965248L,), (549160950L,), (11002822L,), (21186720L,), (238965214L,), (252942885L,), (1103451828L,), (166787714L,), (472064670L,), (3023802119L,), (41343890L,), (241639461L,), (2816735217L,), (181990290L,), (9446942L,), (3881357177L,), (51799267L,), (280029095L,), (2249532007L,), (3400734080L,), (960772458L,), (48149559L,), (2786356105L,), (1692201554L,), (399114019L,), (17769768L,), (2910972407L,), (195373449L,), (48687134L,), (2955252411L,), (718151754L,), (4069244187L,), (14083451L,), (616833L,))
+2716759292
+gearlope    Active user
+1
+0ctaneGaming    Active user
+2
+3RDI_TEK    Active user
+3
+rlmeena    Active user
+4
+NollPsychGroup    Active user
+5
+RosaleeRiddick    Active user
+6
+ijfefmoh    Active user
+7
+AppReviews311    Active user
+8
+8
+bcfc6338dabc4c5    Active user
+9
+who_urbanhealth    Active user
+10
+Allfinanceterms    Active user
+11
+marylinamp8978    Active user
+12
+Jbrte_305    Active user
+13
+hirokazu_desuga    Active user
+14
+ayqiel    Active user
+15
+pgrinteractive    Active user
+16
+kanoshchenkovp1    Active user
+17
+VicoVR    Active user
+18
+nrpmccree    Active user
+19
+AGScientific    Active user
+20
+iot_profiles    Active user
+21
+AstronautAbby    Active user
+22
+bynoggle    Active user
+23
+informatica1414    Active user
+24
+wilkinfrias4    Active user
+25
+nexpaq    Active user
+26
+AvastaPress    Active user
+27
+glushitskaya90    Active user
+28
+mashtheweb    Active user
+29
+P9ScienceFeed    Active user
+30
+30
+tinselwear    Active user
+31
+MONEYMENGYANG    Active user
+32
+32
+contrastsec    Active user
+33
+ManuelArlotti    Active user
+34
+34
+34
+VPNasia    Active user
+35
+BecusCollege    Active user
+36
+MySleepace    Active user
+37
+37
+enbluetec    Active user
+38
+38
+AppleNews4Fans    Active user
+39
+IFNRTG    Active user
+40
+treyptrsn    Active user
+41
+Kazunari_ZUnA    Active user
+42
+jahartis    Active user
+43
+43
+_SURFlNG    Active user
+44
+Automotive2day    Active user
+45
+45
+WinzCristof    Active user
+46
+theairbolt    Active user
+47
+JamesTyping    Active user
+48
+randal_olson    Active user
+49
+LisaVraiqui    Active user
+50
+50
+Vormetric    Active user
+51
+Commvault    Active user
+52
+Bitcoin10min    Active user
+53
+53
+53
+53
+53
+53
+eopolis    Active user
+54
+54
+html5_digest    Active user
+55
+55
+55
+55
+Error: Not authorized.
+56
+56
+56
+56
+56
+Sinapzis    Active user
+57
+212MediaStudios    Active user
+58
+58
+58
+58
+58
+58
+58
+58
+58
+58
+58
+58
+58
+58
+58
+58
+Error: Not authorized.
+59
+59
+59
+59
+59
+59
+59
+Error: Not authorized.
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+Error: Not authorized.
+61
+61
+61
+Error: Not authorized.
+62
+Error: Not authorized.
+63
+63
+63
+63
+63
+RayKusamba    Active user
+64
+64
+64
+64
+realyash03    Active user
+65
+65
+65
+65
+65
+65
+Error: Not authorized.
+66
+66
+66
+66
+66
+66
+66
+66
+66
+IntanLidya93    Active user
+67
+67
+67
+ka_tu_ti    Active user
+68
+68
+68
+68
+68
+68
+68
+68
+68
+68
+68
+68
+68
+juraganPickup    Active user
+69
+Error: Not authorized.
+70
+70
+70
+70
+70
+70
+70
+70
+70
+70
+70
+70
+70
+70
+70
+70
+Error: Not authorized.
+71
+71
+71
+71
+71
+71
+71
+71
+71
+71
+71
+71
+Error: Not authorized.
+72
+72
+72
+72
+72
+72
+72
+72
+72
+72
+72
+72
+Error: Not authorized.
+73
+73
+73
+73
+73
+73
+73
+73
+73
+73
+73
+73
+Error: Not authorized.
+74
+74
+74
+74
+74
+74
+74
+74
+74
+74
+74
+74
+74
+Error: Not authorized.
+75
+75
+75
+75
+75
+75
+75
+75
+75
+75
+75
+75
+sulastri_emi    Active user
+76
+76
+76
+76
+hendriupil999    Active user
+77
+77
+Error: Not authorized.
+78
+78
+78
+78
+Error: Not authorized.
+79
+79
+79
+79
+79
+79
+79
+79
+79
+Error: Not authorized.
+80
+80
+80
+80
+Error: Not authorized.
+81
+MGPR_ID    Active user
+82
+82
+82
+82
+Error: Not authorized.
+83
+83
+83
+83
+Error: Not authorized.
+84
+Ndure65    Active user
+85
+85
+85
+85
+85
+85
+85
+85
+Error: Not authorized.
+86
+86
+86
+86
+Error: Not authorized.
+87
+87
+Error: Not authorized.
+88
+88
+88
+88
+88
+88
+88
+88
+88
+88
+88
+Error: Not authorized.
+89
+iyuza_yusuf    Active user
+90
+Indergone    Active user
+91
+91
+91
+91
+91
+Error: Not authorized.
+92
+92
+92
+92
+92
+92
+92
+92
+Error: Not authorized.
+93
+ulasanberita1    Active user
+94
+94
+Error: Not authorized.
+95
+95
+95
+95
+95
+95
+95
+Error: Not authorized.
+96
+96
+96
+96
+bellaputridwi    Active user
+97
+97
+97
+97
+97
+97
+97
+97
+97
+97
+97
+97
+97
+97
+97
+97
+97
+97
+97
+97
+tommyrio3    Active user
+98
+98
+Error: Not authorized.
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+Ariantiptr    Active user
+100
+100
+Error: Not authorized.
+101
+101
+Error: Not authorized.
+102
+102
+102
+102
+Error: Not authorized.
+103
+103
+ulfi_ariani    Active user
+104
+104
+104
+104
+104
+104
+104
+Us97ay    Active user
+105
+105
+Error: Not authorized.
+106
+106
+106
+106
+106
+106
+SDSB_RI    Active user
+107
+Error: Not authorized.
+108
+108
+108
+108
+108
+108
+108
+108
+108
+safitrinila1    Active user
+109
+109
+109
+KuDicky    Active user
+110
+110
+Error: Not authorized.
+111
+111
+111
+111
+111
+111
+111
+111
+111
+mrizkialfirdaus    Active user
+112
+112
+Error: Not authorized.
+113
+El3frat    Active user
+114
+114
+114
+114
+114
+114
+114
+114
+114
+114
+114
+114
+Error: Not authorized.
+115
+PutriYopika    Active user
+116
+116
+116
+Error: Not authorized.
+117
+h_abastaher    Active user
+118
+118
+118
+MisionInAction    Active user
+119
+119
+119
+119
+119
+119
+119
+119
+119
+119
+119
+119
+119
+119
+119
+119
+zorro_papua    Active user
+120
+120
+120
+120
+120
+120
+120
+120
+Error: Not authorized.
+121
+121
+Error: Not authorized.
+122
+Error: Not authorized.
+123
+Error: Not authorized.
+124
+124
+124
+124
+esmefashionbdg    Active user
+125
+125
+125
+125
+125
+125
+125
+Error: Not authorized.
+126
+126
+126
+126
+126
+126
+Error: Not authorized.
+127
+127
+127
+127
+127
+127
+127
+127
+Error: Not authorized.
+128
+128
+128
+128
+128
+128
+128
+128
+128
+PontianakCity3    Active user
+129
+129
+Error: Not authorized.
+130
+130
+Error: Not authorized.
+131
+131
+nikk_madd    Active user
+132
+132
+132
+132
+132
+132
+132
+132
+132
+132
+Sihapudin88    Active user
+133
+133
+133
+133
+Error: Not authorized.
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+diyyut_    Active user
+135
+135
+135
+IklanTeratas    Active user
+136
+136
+Error: Not authorized.
+137
+137
+137
+Error: Not authorized.
+138
+138
+138
+138
+138
+138
+138
+138
+138
+138
+Dedie_LFC    Active user
+139
+139
+139
+139
+139
+139
+139
+Error: Not authorized.
+140
+140
+Dennos10    Active user
+141
+141
+tigabuanatour    Active user
+142
+Error: Not authorized.
+143
+143
+rezaputra_    Active user
+144
+144
+144
+144
+144
+144
+144
+devlin_juliana    Active user
+145
+145
+145
+145
+145
+145
+145
+Error: Not authorized.
+146
+146
+146
+146
+146
+146
+146
+146
+146
+146
+Aldyenstn    Active user
+147
+147
+147
+147
+147
+147
+147
+Error: Not authorized.
+148
+148
+148
+148
+Error: Not authorized.
+149
+149
+149
+RagaJow    Active user
+150
+150
+Error: Not authorized.
+151
+151
+151
+151
+151
+151
+151
+151
+151
+151
+151
+151
+151
+151
+151
+151
+151
+151
+151
+151
+151
+151
+Error: Not authorized.
+152
+152
+152
+152
+Error: Not authorized.
+153
+Error: Not authorized.
+154
+154
+154
+154
+154
+154
+154
+154
+154
+154
+154
+154
+154
+154
+154
+154
+154
+154
+154
+154
+154
+ceweksinggle    Active user
+155
+155
+155
+155
+155
+Taufikfollowers    Active user
+156
+156
+156
+156
+156
+156
+156
+Error: Not authorized.
+157
+157
+157
+157
+157
+efendi_resti    Active user
+158
+158
+158
+158
+158
+158
+158
+158
+Error: Not authorized.
+159
+159
+Error: Not authorized.
+160
+160
+160
+Error: Not authorized.
+161
+161
+161
+161
+161
+alhenzsa_    Active user
+162
+162
+162
+162
+162
+162
+162
+162
+162
+Orang_Id404    Active user
+163
+163
+163
+163
+163
+163
+163
+163
+163
+Error: Not authorized.
+164
+164
+164
+164
+164
+164
+netia02    Active user
+165
+165
+165
+165
+Error: Not authorized.
+166
+166
+166
+166
+166
+166
+166
+166
+166
+166
+benedctardrine    Active user
+167
+167
+167
+167
+Error: Not authorized.
+168
+168
+168
+Error: Not authorized.
+169
+169
+Error: Not authorized.
+170
+170
+170
+Error: Not authorized.
+171
+171
+Error: Not authorized.
+172
+172
+172
+172
+172
+172
+172
+172
+172
+As_poetrass    Active user
+173
+173
+173
+173
+173
+173
+173
+173
+173
+Eka_Nurjanah96    Active user
+174
+174
+174
+174
+664955189317636096  1    0
+User Processed
+2334049172
+CouchQuiz    Active user
+1
+oqotnuz    Active user
+2
+BanduraGames    Active user
+3
+cybersuze    Active user
+4
+GmojiApp    Active user
+5
+5
+C1V0    Active user
+6
+knyaseff    Active user
+7
+7
+GoldenSlotsApp    Active user
+8
+bruinengineer    Active user
+9
+KeymojiApp    Active user
+10
+10
+bitfield    Active user
+11
+IndieGameDevBot    Active user
+12
+12
+sketchappTV    Active user
+13
+NeoNacho    Active user
+14
+14
+RumorMagnet    Active user
+15
+nerdonica    Active user
+16
+KyleBalan    Active user
+17
+17
+Charles_APB    Active user
+18
+ShivuraDesign    Active user
+19
+__simonlee__    Active user
+20
+buddybuild    Active user
+21
+iJoeCollins    Active user
+22
+dmitry_kurilo    Active user
+23
+Luismarti    Active user
+24
+objctoswift    Active user
+25
+sMuir4    Active user
+26
+26
+26
+26
+SwiftSandbox    Active user
+27
+27
+hanning_thomas    Active user
+28
+_Sim_On    Active user
+29
+29
+29
+SamLetsNurture    Active user
+30
+arduino_fans    Active user
+31
+startingpointio    Active user
+32
+ShawtyReeve    Active user
+33
+33
+33
+33
+33
+33
+StartFEST    Active user
+34
+kkeiter    Active user
+35
+trnqlinc    Active user
+36
+wendywill25    Active user
+37
+silviust7    Active user
+38
+38
+38
+svenkessler    Active user
+39
+ooShirts    Active user
+40
+40
+40
+40
+tecjobs4D    Active user
+41
+conradev    Active user
+42
+nonatierra282    Active user
+43
+b_wleung    Active user
+44
+dharveymi    Active user
+45
+ioscandy    Active user
+46
+rundavidrun    Active user
+47
+workflowvcs    Active user
+48
+48
+JerRobison    Active user
+49
+49
+eora3d    Active user
+50
+AaronGundy    Active user
+51
+TravelinTweeter    Active user
+52
+TheStartStudio    Active user
+53
+Slovebunny    Active user
+54
+Mav3r1cksOffice    Active user
+55
+55
+55
+rahuldev555    Active user
+56
+56
+Filaprint3D    Active user
+57
+57
+57
+ewstevenson    Active user
+58
+TeeIrish    Active user
+59
+59
+alexkoford    Active user
+60
+Error: Failed to send request: ('Connection aborted.', error(113, 'No route to host'))
+61
+Error: Failed to send request: ('Connection aborted.', gaierror(-3, 'Temporary failure in name resolution'))
+62
+Error: Failed to send request: ('Connection aborted.', gaierror(-3, 'Temporary failure in name resolution'))
+63
+Error: Failed to send request: ('Connection aborted.', gaierror(-3, 'Temporary failure in name resolution'))
+64
+mynameisCa5llum    Active user
+65
+65
+65
+krommenhoek    Active user
+66
+JonahLupton    Active user
+67
+kickstartforum    Active user
+68
+68
+jaredclarkgay    Active user
+69
+whatisflip    Active user
+70
+Startup_Dreams    Active user
+71
+71
+TylerWeiss32    Active user
+72
+72
+72
+DavTravels    Active user
+73
+BrandonRMajor    Active user
+74
+blotterg    Active user
+75
+M3lani3L3onard    Active user
+76
+Error: Not authorized.
+77
+77
+77
+mattvryan    Active user
+78
+78
+78
+78
+78
+dasjoshua    Active user
+79
+79
+LAutomation    Active user
+80
+80
+80
+shieldstroy    Active user
+81
+opsview    Active user
+82
+82
+Chrisella    Active user
+83
+NailThenScale    Active user
+84
+LukeGundy    Active user
+85
+stephen_walter    Active user
+86
+Error: Not authorized.
+87
+Mwiz123    Active user
+88
+shelbyrose1345    Active user
+89
+89
+BeehiveStartups    Active user
+90
+andyhayford    Active user
+91
+91
+91
+91
+funstore_io    Active user
+92
+92
+92
+92
+92
+92
+GetJive    Active user
+93
+kurtinlane    Active user
+94
+94
+94
+bobbiejo_eckart    Active user
+95
+95
+95
+95
+95
+dleonard00    Active user
+96
+96
+AdobeCare    Active user
+97
+97
+97
+megaleonardon    Active user
+98
+98
+664953612531990528  1    0
+664823198853132288  3    4
+User Processed
+3053937728
+0
+xumifaji2012    Active user
+1
+PeterMaloney99    Active user
+2
+manpsychology    Active user
+3
+ItsMattTheGamer    Active user
+4
+TechManRick    Active user
+5
+SmpTecHD    Active user
+6
+MattKraig    Active user
+7
+iBeckTech    Active user
+8
+RobertSantellan    Active user
+9
+Foxtrot4978    Active user
+10
+My_AppleGadgets    Active user
+11
+ozzy30cast    Active user
+12
+12
+wynbergfeeding1    Active user
+13
+StudioPixelBeam    Active user
+14
+EnvestorFirst    Active user
+15
+GameMob_    Active user
+16
+OfficialSW380    Active user
+17
+ecobee    Active user
+18
+ZannPettitt    Active user
+19
+femmonreal979    Active user
+20
+RiCHi    Active user
+21
+21
+Error: Not authorized.
+22
+22
+mbazzoni    Active user
+23
+torismiller    Active user
+24
+24
+24
+michitime    Active user
+25
+25
+TheWonderSpud    Active user
+26
+26
+26
+aramil248    Active user
+27
+27
+uniqueappstore    Active user
+28
+28
+28
+28
+28
+28
+28
+28
+tech_sational    Active user
+29
+ipad__agent    Active user
+30
+iphoneforumnews    Active user
+31
+anthonylavado    Active user
+32
+32
+johncrutledge    Active user
+33
+ThreeLoudKids    Active user
+34
+34
+34
+realnanners    Active user
+35
+664942561698664449  1    0
+User Processed
+2692564433
+
